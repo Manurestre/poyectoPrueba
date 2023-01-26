@@ -1,2 +1,2 @@
-# poyectoPrueba
-Este es un poyecto de prueba
+# ActividadesGuiadas
+En este repositorio, se encuentras todas las actividades guiadas para la materia de algoritmos de optimización
